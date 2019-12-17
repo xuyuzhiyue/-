@@ -1,0 +1,27 @@
+﻿生成启动时间为 2019/12/16 21:18:19。
+项目“C:\Users\Administrator\Desktop\week8_02\Client\Client\Client\Client.vcxproj”在节点 2 上(build 个目标)。
+InitializeBuildStatus:
+  正在对“Debug\Client.unsuccessfulbuild”执行 Touch 任务。
+ClCompile:
+  所有输出均为最新。
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Client.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ClientDlg.cpp
+  ClientDlg.cpp
+ResourceCompile:
+  c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\Client.res" Client.rc 
+Link:
+  c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\week8_02\Client\Client\Debug\Client.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Client.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\week8_02\Client\Client\Debug\Client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\week8_02\Client\Client\Debug\Client.lib" /MACHINE:X86 Debug\Client.res
+  Debug\Client.obj
+  Debug\ClientDlg.obj
+  Debug\ClientSocket.obj
+  Debug\stdafx.obj
+  Client.vcxproj -> C:\Users\Administrator\Desktop\week8_02\Client\Client\Debug\Client.exe
+Manifest:
+  c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\Administrator\Desktop\week8_02\Client\Client\Debug\Client.exe.manifest" /manifest Debug\Client.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+FinalizeBuildStatus:
+  正在删除文件“Debug\Client.unsuccessfulbuild”。
+  正在对“Debug\Client.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\Administrator\Desktop\week8_02\Client\Client\Client\Client.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.01
